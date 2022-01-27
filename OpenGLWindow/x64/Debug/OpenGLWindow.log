@@ -1,0 +1,12 @@
+﻿  window_main.cpp
+C:\Users\tahmi\VS Projects\repos\OpenGL\Lighting Maps\OpenGLWindow\window_main.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tahmi\VS Projects\repos\OpenGL\Lighting Maps\OpenGLWindow\shader.h(159,30): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Lighting Maps\OpenGLWindow\window_main.cpp(174,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Lighting Maps\OpenGLWindow\window_main.cpp(288,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Lighting Maps\OpenGLWindow\window_main.cpp(289,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Lighting Maps\OpenGLWindow\window_main.cpp(293,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Lighting Maps\OpenGLWindow\window_main.cpp(294,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Lighting Maps\OpenGLWindow\window_main.cpp(296,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Lighting Maps\OpenGLWindow\window_main.cpp(297,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Lighting Maps\OpenGLWindow\window_main.cpp(306,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLWindow.vcxproj -> C:\Users\tahmi\VS Projects\repos\OpenGL\Lighting Maps\x64\Debug\OpenGLWindow.exe
